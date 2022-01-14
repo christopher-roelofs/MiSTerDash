@@ -1,0 +1,8 @@
+{
+    "mister_ip": "MiSTer",
+    "mister_username": "root",
+    "mister_password": "1",
+    "debug": false,
+    "refresh_rate": "1",
+    "core_storage": "fat"
+}

@@ -1,0 +1,671 @@
+{
+    "menu": {
+        "description": "menu core"
+    },
+    "Arkanoid": {
+        "description": "Arkanoid core"
+    },
+    "AsteroidsDeluxe": {
+        "description": "AsteroidsDeluxe core"
+    },
+    "Asteroids": {
+        "description": "Asteroids core"
+    },
+    "Astrocade": {
+        "description": "Astrocade core"
+    },
+    "AtariTetris": {
+        "description": "AtariTetris core"
+    },
+    "Bagman": {
+        "description": "Bagman core"
+    },
+    "Berzerk": {
+        "description": "Berzerk core"
+    },
+    "BlackWidow": {
+        "description": "BlackWidow core"
+    },
+    "BombJack": {
+        "description": "BombJack core"
+    },
+    "Breakout": {
+        "description": "Breakout core"
+    },
+    "BurgerTime": {
+        "description": "BurgerTime core"
+    },
+    "BurningRubber": {
+        "description": "BurningRubber core"
+    },
+    "CanyonBomber": {
+        "description": "CanyonBomber core"
+    },
+    "Cave": {
+        "description": "Cave core"
+    },
+    "Centipede": {
+        "description": "Centipede core"
+    },
+    "ComputerSpace": {
+        "description": "ComputerSpace core"
+    },
+    "CosmicAvenger": {
+        "description": "CosmicAvenger core"
+    },
+    "Cosmic": {
+        "description": "Cosmic core"
+    },
+    "CrazyBalloon": {
+        "description": "CrazyBalloon core"
+    },
+    "CrazyClimber": {
+        "description": "CrazyClimber core"
+    },
+    "CrazyKong": {
+        "description": "CrazyKong core"
+    },
+    "Defender": {
+        "description": "Defender core"
+    },
+    "DigDug": {
+        "description": "DigDug core"
+    },
+    "Dominos": {
+        "description": "Dominos core"
+    },
+    "DonkeyKong3": {
+        "description": "DonkeyKong3 core"
+    },
+    "DonkeyKongJunior": {
+        "description": "DonkeyKongJunior core"
+    },
+    "DonkeyKong": {
+        "description": "DonkeyKong core"
+    },
+    "Dorodon": {
+        "description": "Dorodon core"
+    },
+    "DottoriKun": {
+        "description": "DottoriKun core"
+    },
+    "Druaga": {
+        "description": "Druaga core"
+    },
+    "Finalizer": {
+        "description": "Finalizer core"
+    },
+    "FoodFight": {
+        "description": "FoodFight core"
+    },
+    "Frenzy": {
+        "description": "Frenzy core"
+    },
+    "GAMEGEAR": {
+        "description": "GAMEGEAR core"
+    },
+    "Galaga": {
+        "description": "Galaga core"
+    },
+    "Galaxian": {
+        "description": "Galaxian core"
+    },
+    "Gaplus": {
+        "description": "Gaplus core"
+    },
+    "Gauntlet": {
+        "description": "Gauntlet core"
+    },
+    "GnG": {
+        "description": "GnG core"
+    },
+    "Gyruss": {
+        "description": "Gyruss core"
+    },
+    "IremM62": {
+        "description": "IremM62 core"
+    },
+    "IronHorse": {
+        "description": "IronHorse core"
+    },
+    "Jackal": {
+        "description": "Jackal core"
+    },
+    "Jailbreak": {
+        "description": "Jailbreak core"
+    },
+    "LadyBug": {
+        "description": "LadyBug core"
+    },
+    "LunarLander": {
+        "description": "LunarLander core"
+    },
+    "MCR1": {
+        "description": "MCR1 core"
+    },
+    "MCR2": {
+        "description": "MCR2 core"
+    },
+    "MCR3Mono": {
+        "description": "MCR3Mono core"
+    },
+    "MCR3Scroll": {
+        "description": "MCR3Scroll core"
+    },
+    "MCR3": {
+        "description": "MCR3 core"
+    },
+    "MarioBros": {
+        "description": "MarioBros core"
+    },
+    "MoonPatrol": {
+        "description": "MoonPatrol core"
+    },
+    "MrDo": {
+        "description": "MrDo core"
+    },
+    "NinjaKun": {
+        "description": "NinjaKun core"
+    },
+    "Pacman": {
+        "description": "Pacman core"
+    },
+    "Pengo": {
+        "description": "Pengo core"
+    },
+    "PenguinKunWars": {
+        "description": "PenguinKunWars core"
+    },
+    "Phoenix": {
+        "description": "Phoenix core"
+    },
+    "Pleiads": {
+        "description": "Pleiads core"
+    },
+    "PolyPlay": {
+        "description": "PolyPlay core"
+    },
+    "Pong": {
+        "description": "Pong core"
+    },
+    "Pooyan": {
+        "description": "Pooyan core"
+    },
+    "Popeye": {
+        "description": "Popeye core"
+    },
+    "QBert": {
+        "description": "QBert core"
+    },
+    "RallyX": {
+        "description": "RallyX core"
+    },
+    "RiverPatrol": {
+        "description": "RiverPatrol core"
+    },
+    "Robotron": {
+        "description": "Robotron core"
+    },
+    "RshnAtk": {
+        "description": "RshnAtk core"
+    },
+    "SEGASYS1": {
+        "description": "SEGASYS1 core"
+    },
+    "SG-1000": {
+        "description": "SG-1000 core"
+    },
+    "SMS": {
+        "description": "SMS core"
+    },
+    "ScooterShooter": {
+        "description": "ScooterShooter core"
+    },
+    "Scramble": {
+        "description": "Scramble core"
+    },
+    "SilverLand": {
+        "description": "SilverLand core"
+    },
+    "SnapJack": {
+        "description": "SnapJack core"
+    },
+    "SolomonsKey": {
+        "description": "SolomonsKey core"
+    },
+    "SpaceInvaders": {
+        "description": "SpaceInvaders core"
+    },
+    "SpaceRace": {
+        "description": "SpaceRace core"
+    },
+    "Sprint1": {
+        "description": "Sprint1 core"
+    },
+    "Sprint2": {
+        "description": "Sprint2 core"
+    },
+    "Subs": {
+        "description": "Subs core"
+    },
+    "SuperBreakout": {
+        "description": "SuperBreakout core"
+    },
+    "TIAMC1": {
+        "description": "TIAMC1 core"
+    },
+    "Tecmo": {
+        "description": "Tecmo core"
+    },
+    "TimePilot84": {
+        "description": "TimePilot84 core"
+    },
+    "TimePilot": {
+        "description": "TimePilot core"
+    },
+    "TraverseUSA": {
+        "description": "TraverseUSA core"
+    },
+    "Ultratank": {
+        "description": "Ultratank core"
+    },
+    "VBall": {
+        "description": "VBall core"
+    },
+    "Xevious": {
+        "description": "Xevious core"
+    },
+    "Zaxxon": {
+        "description": "Zaxxon core"
+    },
+    "ZigZag": {
+        "description": "ZigZag core"
+    },
+    "jt1942": {
+        "description": "jt1942 core"
+    },
+    "jt1943": {
+        "description": "jt1943 core"
+    },
+    "jtbiocom": {
+        "description": "jtbiocom core"
+    },
+    "jtbtiger": {
+        "description": "jtbtiger core"
+    },
+    "jtbubl": {
+        "description": "jtbubl core"
+    },
+    "jtcommando": {
+        "description": "jtcommando core"
+    },
+    "jtcomsc": {
+        "description": "jtcomsc core"
+    },
+    "jtcontra": {
+        "description": "jtcontra core"
+    },
+    "jtcop": {
+        "description": "jtcop core"
+    },
+    "jtcps15": {
+        "description": "jtcps15 core"
+    },
+    "jtcps1": {
+        "description": "jtcps1 core"
+    },
+    "jtcps2": {
+        "description": "jtcps2 core"
+    },
+    "jtdd2": {
+        "description": "jtdd2 core"
+    },
+    "jtdd": {
+        "description": "jtdd core"
+    },
+    "jtexed": {
+        "description": "jtexed core"
+    },
+    "jtf1dream": {
+        "description": "jtf1dream core"
+    },
+    "jtflane": {
+        "description": "jtflane core"
+    },
+    "jtgng": {
+        "description": "jtgng core"
+    },
+    "jtgunsmoke": {
+        "description": "jtgunsmoke core"
+    },
+    "jthige": {
+        "description": "jthige core"
+    },
+    "jtkicker": {
+        "description": "jtkicker core"
+    },
+    "jtlabrun": {
+        "description": "jtlabrun core"
+    },
+    "jtmx5k": {
+        "description": "jtmx5k core"
+    },
+    "jtninja": {
+        "description": "jtninja core"
+    },
+    "jtrumble": {
+        "description": "jtrumble core"
+    },
+    "jts16": {
+        "description": "jts16 core"
+    },
+    "jts16a2": {
+        "description": "jts16a2 core"
+    },
+    "jts16b1": {
+        "description": "jts16b1 core"
+    },
+    "jts16b2": {
+        "description": "jts16b2 core"
+    },
+    "jts16b3": {
+        "description": "jts16b3 core"
+    },
+    "jts16b": {
+        "description": "jts16b core"
+    },
+    "jtsarms": {
+        "description": "jtsarms core"
+    },
+    "jtsbask1": {
+        "description": "jtsbask1 core"
+    },
+    "jtsbaskt": {
+        "description": "jtsbaskt core"
+    },
+    "jtsectionz": {
+        "description": "jtsectionz core"
+    },
+    "jtsf": {
+        "description": "jtsf core"
+    },
+    "jttora": {
+        "description": "jttora core"
+    },
+    "jttrojan": {
+        "description": "jttrojan core"
+    },
+    "jtvulgus": {
+        "description": "jtvulgus core"
+    },
+    "jtyiear": {
+        "description": "jtyiear core"
+    },
+    "AcornAtom": {
+        "description": "AcornAtom core"
+    },
+    "AliceMC10": {
+        "description": "AliceMC10 core"
+    },
+    "Altair8800": {
+        "description": "Altair8800 core"
+    },
+    "Amstrad-PCW": {
+        "description": "Amstrad-PCW core"
+    },
+    "Amstrad": {
+        "description": "Amstrad core"
+    },
+    "Apogee": {
+        "description": "Apogee core"
+    },
+    "Apple-II": {
+        "description": "Apple-II core"
+    },
+    "Apple-I": {
+        "description": "Apple-I core"
+    },
+    "Aquarius": {
+        "description": "Aquarius core"
+    },
+    "Archie": {
+        "description": "Archie core"
+    },
+    "Atari800": {
+        "description": "Atari800 core"
+    },
+    "AtariST": {
+        "description": "AtariST core"
+    },
+    "BBCMicro": {
+        "description": "BBCMicro core"
+    },
+    "BK0011M": {
+        "description": "BK0011M core"
+    },
+    "C16": {
+        "description": "C16 core"
+    },
+    "C64": {
+        "description": "C64 core"
+    },
+    "CoCo2": {
+        "description": "CoCo2 core"
+    },
+    "CoCo3": {
+        "description": "CoCo3 core"
+    },
+    "EDSAC": {
+        "description": "EDSAC core"
+    },
+    "Galaksija": {
+        "description": "Galaksija core"
+    },
+    "Interact": {
+        "description": "Interact core"
+    },
+    "Jupiter": {
+        "description": "Jupiter core"
+    },
+    "Laser310": {
+        "description": "Laser310 core"
+    },
+    "MSX": {
+        "description": "MSX core"
+    },
+    "MacPlus": {
+        "description": "MacPlus core"
+    },
+    "Minimig": {
+        "description": "Minimig core"
+    },
+    "MultiComp": {
+        "description": "MultiComp core"
+    },
+    "ORAO": {
+        "description": "ORAO core"
+    },
+    "Ondra": {
+        "description": "Ondra core"
+    },
+    "Oric": {
+        "description": "Oric core"
+    },
+    "PC88": {
+        "description": "PC88 core"
+    },
+    "PDP1": {
+        "description": "PDP1 core"
+    },
+    "PET2001": {
+        "description": "PET2001 core"
+    },
+    "PMD85": {
+        "description": "PMD85 core"
+    },
+    "QL": {
+        "description": "QL core"
+    },
+    "RX78": {
+        "description": "RX78 core"
+    },
+    "SAMCoupe": {
+        "description": "SAMCoupe core"
+    },
+    "SharpMZ": {
+        "description": "SharpMZ core"
+    },
+    "SordM5": {
+        "description": "SordM5 core"
+    },
+    "Specialist": {
+        "description": "Specialist core"
+    },
+    "Svi328": {
+        "description": "Svi328 core"
+    },
+    "TRS-80": {
+        "description": "TRS-80 core"
+    },
+    "TSConf": {
+        "description": "TSConf core"
+    },
+    "Ti994a": {
+        "description": "Ti994a core"
+    },
+    "UK101": {
+        "description": "UK101 core"
+    },
+    "VIC20": {
+        "description": "VIC20 core"
+    },
+    "Vector-06C": {
+        "description": "Vector-06C core"
+    },
+    "X68000": {
+        "description": "X68000 core"
+    },
+    "ZX-Spectrum": {
+        "description": "ZX-Spectrum core"
+    },
+    "ZX81": {
+        "description": "ZX81 core"
+    },
+    "ZXNext": {
+        "description": "ZXNext core"
+    },
+    "ao486": {
+        "description": "ao486 core"
+    },
+    "ht1080z": {
+        "description": "ht1080z core"
+    },
+    "zx48": {
+        "description": "zx48 core"
+    },
+    "AY-3-8500": {
+        "description": "AY-3-8500 core"
+    },
+    "Arcadia": {
+        "description": "Arcadia core"
+    },
+    "Atari2600": {
+        "description": "Atari2600 core"
+    },
+    "Atari5200": {
+        "description": "Atari5200 core"
+    },
+    "Atari7800": {
+        "description": "Atari7800 core"
+    },
+    "AtariLynx": {
+        "description": "AtariLynx core"
+    },
+    "ChannelF": {
+        "description": "ChannelF core"
+    },
+    "ColecoVision": {
+        "description": "ColecoVision core"
+    },
+    "GBA2P": {
+        "description": "GBA2P core"
+    },
+    "GBA": {
+        "description": "GBA core"
+    },
+    "GBC": {
+        "description": "GBC core"
+    },
+    "Gameboy2P": {
+        "description": "Gameboy2P core"
+    },
+    "Gameboy": {
+        "description": "Gameboy core"
+    },
+    "Genesis": {
+        "description": "Genesis core"
+    },
+    "Intellivision": {
+        "description": "Intellivision core"
+    },
+    "MegaCD": {
+        "description": "MegaCD core"
+    },
+    "NES": {
+        "description": "NES core"
+    },
+    "NeoGeo": {
+        "description": "NeoGeo core"
+    },
+    "Odyssey2": {
+        "description": "Odyssey2 core"
+    },
+    "SG-1000C": {
+        "description": "SG-1000C core"
+    },
+    "SNES": {
+        "description": "SNES core"
+    },
+    "TurboGrafx16": {
+        "description": "TurboGrafx16 core"
+    },
+    "VC4000": {
+        "description": "VC4000 core"
+    },
+    "Vectrex": {
+        "description": "Vectrex core"
+    },
+    "WonderSwan": {
+        "description": "WonderSwan core"
+    },
+    "Arduboy": {
+        "description": "Arduboy core"
+    },
+    "Chess": {
+        "description": "Chess core"
+    },
+    "Chip8": {
+        "description": "Chip8 core"
+    },
+    "EpochGalaxyII": {
+        "description": "EpochGalaxyII core"
+    },
+    "FlappyBird": {
+        "description": "FlappyBird core"
+    },
+    "GameOfLife": {
+        "description": "GameOfLife core"
+    },
+    "TomyScramble": {
+        "description": "TomyScramble core"
+    },
+    "ADCTest": {
+        "description": "ADCTest core"
+    },
+    "InputTest": {
+        "description": "InputTest core"
+    },
+    "memtest": {
+        "description": "memtest core"
+    }
+}
