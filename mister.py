@@ -1,3 +1,4 @@
+from turtle import clear
 import logger
 import config
 import cores
@@ -38,7 +39,7 @@ def get_file_hash(filepath, filename):
     if ".zip" in filepath:
         stdout = ssh.send_command(f"unzip -p '../media/{filepath[3:-1]}' '{filename.strip()}' | sha1sum")
     else:
-        stdout = ssh.send_command(f"sha1sum '../media/{filepath[3:-1]}'")
+        stdout = ssh.send_command(f"sha1sum '../media/{filepath[3:-1]}/{filename.strip()}'")
     if len(stdout) > 0:
         return stdout[0].split()[0].upper()
     return ""

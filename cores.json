@@ -404,6 +404,9 @@
     "AcornAtom": {
         "description": "AcornAtom core"
     },
+    "AcornElectron": {
+        "description": "AcornElectron core"
+    },
     "AliceMC10": {
         "description": "AliceMC10 core"
     },
