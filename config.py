@@ -17,14 +17,8 @@ def create_config():
     main["custom_text_sources"] = { "GameName": "Playing {game} on {core}" }
     main["refresh_rate"] = "1"
     main["core_storage"] = "fat"
-    main["pause_scenes"] = [ "Pause Scene" ]
     config["main"] = main
 
-    obs = {}
-    obs['host'] = "localhost"
-    obs['port'] = "4444"
-    obs['password'] = ""
-    config["obs"] = obs
 
     with open(config_file, "w") as write_file:
         json.dump(config, write_file, indent=4)
